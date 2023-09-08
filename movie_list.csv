@@ -1,0 +1,101 @@
+Title,Year,Duration,Genre,Rating
+The Dark Knight,2008,152 min,"Action, Crime, Drama",9.0
+Inception,2010,148 min,"Action, Adventure, Sci-Fi",8.8
+Tenet,2020,150 min,"Action, Sci-Fi, Thriller",7.3
+Dunkirk,2017,106 min,"Action, Drama, History",7.8
+The Batman,2022,176 min,"Action, Crime, Drama",7.8
+The Prestige,2006,130 min,"Drama, Mystery, Sci-Fi",8.5
+Memento,2000,113 min,"Mystery, Thriller",8.4
+Blade Runner 2049,2017,164 min,"Action, Drama, Mystery",8.0
+Jurassic Park,1993,127 min,"Action, Adventure, Sci-Fi",8.2
+The Departed,2006,151 min,"Crime, Drama, Thriller",8.5
+Prisoners,2013,153 min,"Crime, Drama, Mystery",8.1
+No Country for Old Men,2007,122 min,"Crime, Drama, Thriller",8.2
+Joker,2019,122 min,"Crime, Drama, Thriller",8.4
+Gone Girl,2014,149 min,"Drama, Mystery, Thriller",8.1
+Se7en,1995,127 min,"Crime, Drama, Mystery",8.6
+Aliens,1986,137 min,"Action, Adventure, Sci-Fi",8.4
+Glass Onion,2022,139 min,"Comedy, Crime, Drama",7.1
+Gisaengchung,2019,132 min,"Drama, Thriller",8.5
+The Silence of the Lambs,1991,118 min,"Crime, Drama, Thriller",8.6
+No Time to Die,2021,163 min,"Action, Adventure, Thriller",7.3
+A Few Good Men,1992,138 min,"Drama, Thriller",7.7
+Mad Max: Fury Road,2015,120 min,"Action, Adventure, Sci-Fi",8.1
+Sicario,2015,121 min,"Action, Crime, Drama",7.6
+Blade Runner,1982,117 min,"Action, Drama, Sci-Fi",8.1
+Knives Out,2019,130 min,"Comedy, Crime, Drama",7.9
+Promising Young Woman,2020,113 min,"Crime, Drama, Mystery",7.5
+The Usual Suspects,1995,106 min,"Crime, Drama, Mystery",8.5
+Get Out,2017,104 min,"Horror, Mystery, Thriller",7.8
+Black Swan,2010,108 min,"Drama, Thriller",8.0
+Logan,2017,137 min,"Action, Drama, Sci-Fi",8.1
+The Hateful Eight,2015,168 min,"Crime, Drama, Mystery",7.8
+Die Hard,1988,132 min,"Action, Thriller",8.2
+The Imitation Game,2014,114 min,"Biography, Drama, Thriller",8.0
+Collateral,2004,120 min,"Action, Crime, Drama",7.5
+Starship Troopers,1997,129 min,"Action, Adventure, Sci-Fi",7.3
+Fargo,1996,98 min,"Crime, Thriller",8.1
+Mulholland Dr.,2001,147 min,"Drama, Mystery, Thriller",7.9
+Unfaithful,2002,124 min,"Drama, Romance, Thriller",6.7
+The Lighthouse,2019,109 min,"Drama, Fantasy, Horror",7.4
+Apocalypto,2006,139 min,"Action, Adventure, Drama",7.8
+Armageddon,1998,151 min,"Action, Adventure, Sci-Fi",6.7
+Vanilla Sky,2001,136 min,"Fantasy, Mystery, Romance",6.9
+The Sixth Sense,1999,107 min,"Drama, Mystery, Thriller",8.2
+Primal Fear,1996,129 min,"Crime, Drama, Mystery",7.7
+Basic Instinct,1992,127 min,"Drama, Mystery, Thriller",7.0
+The Town,2010,125 min,"Crime, Drama, Thriller",7.5
+Con Air,1997,115 min,"Action, Crime, Thriller",6.9
+True Lies,1994,141 min,"Action, Comedy, Thriller",7.3
+Spectre,2015,148 min,"Action, Adventure, Thriller",6.8
+Ex Machina,2014,108 min,"Drama, Sci-Fi, Thriller",7.7
+The Untouchables,1987,119 min,"Crime, Drama, Thriller",7.8
+Ad Astra,2019,123 min,"Adventure, Drama, Mystery",6.5
+Star Trek Beyond,2016,122 min,"Action, Adventure, Sci-Fi",7.0
+The Duchess,2008,110 min,"Biography, Drama, History",6.9
+RoboCop,1987,102 min,"Action, Crime, Sci-Fi",7.6
+Nocturnal Animals,2016,116 min,"Drama, Thriller",7.5
+Nightcrawler,2014,117 min,"Crime, Drama, Thriller",7.8
+The Girl with the Dragon Tattoo,2011,158 min,"Crime, Drama, Mystery",7.8
+L.A. Confidential,1997,138 min,"Crime, Drama, Mystery",8.2
+Jackie Brown,1997,154 min,"Crime, Drama, Thriller",7.5
+The Cell,2000,107 min,"Crime, Horror, Sci-Fi",6.4
+Lo imposible,2012,114 min,"Adventure, Drama, History",7.5
+Blue Velvet,1986,120 min,"Crime, Drama, Mystery",7.7
+JFK,1991,189 min,"Drama, History, Thriller",8.0
+13 Hours,2016,144 min,"Action, Drama, History",7.3
+X-Men: Days of Future Past,2014,132 min,"Action, Adventure, Sci-Fi",7.9
+Training Day,2001,122 min,"Action, Crime, Drama",7.7
+Mystic River,2003,138 min,"Crime, Drama, Mystery",7.9
+Gravity,2013,91 min,"Drama, Sci-Fi, Thriller",7.7
+The Fugitive,1993,130 min,"Action, Crime, Drama",7.8
+Lethal Weapon,1987,109 min,"Action, Crime, Thriller",7.6
+Passengers,2016,116 min,"Drama, Romance, Sci-Fi",7.0
+Skyfall,2012,143 min,"Action, Adventure, Thriller",7.8
+Minority Report,2002,145 min,"Action, Crime, Mystery",7.6
+Clear and Present Danger,1994,141 min,"Action, Crime, Drama",6.9
+The Lobster,2015,119 min,"Drama, Romance, Sci-Fi",7.1
+Speed,1994,116 min,"Action, Adventure, Thriller",7.3
+Traffic,2000,147 min,"Crime, Drama, Thriller",7.6
+The Hunt for Red October,1990,135 min,"Action, Adventure, Thriller",7.5
+The Lovely Bones,2009,135 min,"Drama, Fantasy, Thriller",6.6
+District 9,2009,112 min,"Action, Sci-Fi, Thriller",7.9
+Space Cowboys,2000,130 min,"Action, Adventure, Thriller",6.5
+The Rock,1996,136 min,"Action, Adventure, Thriller",7.4
+Twister,1996,113 min,"Action, Adventure, Thriller",6.5
+In Bruges,2008,107 min,"Comedy, Crime, Drama",7.9
+Room,2015,118 min,"Drama, Thriller",8.1
+Flight,2012,138 min,"Drama, Thriller",7.3
+WarGames,1983,114 min,"Action, Drama, Sci-Fi",7.1
+Zero Dark Thirty,2012,157 min,"Drama, History, Thriller",7.4
+The Mask of Zorro,1998,136 min,"Action, Adventure, Comedy",6.8
+Children of Men,2006,109 min,"Action, Drama, Sci-Fi",7.9
+Contact,1997,150 min,"Drama, Mystery, Sci-Fi",7.5
+Sleepers,1996,147 min,"Crime, Drama, Thriller",7.5
+Hell or High Water,2016,102 min,"Crime, Drama, Thriller",7.6
+The Firm,1993,154 min,"Drama, Mystery, Thriller",6.8
+Ghost,1990,127 min,"Drama, Fantasy, Romance",7.1
+Sweeney Todd: The Demon Barber of Fleet Street,2007,116 min,"Drama, Horror, Musical",7.3
+Captain America: The Winter Soldier,2014,136 min,"Action, Adventure, Sci-Fi",7.8
+Wanted,2008,110 min,"Action, Crime, Thriller",6.7
+The Abyss,1989,140 min,"Adventure, Drama, Mystery",7.5
